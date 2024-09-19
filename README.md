@@ -4,7 +4,12 @@
 - **🎫 CounterStrikeSharp [ [Docs](https://docs.cssharp.dev/docs/guides/getting-started.html) ]**
 - **🎟 CounterStrikeSharp [ [Discord](https://discord.gg/eAZU3guKWU) ]**
 ## 关于 ABOUT
-**🛠 本项目旨在为新人开发者提供CounterStrikeSharp插件编写入门指南**
+**🛠 本项目旨在为新人开发者提供CounterStrikeSharp插件编写入门指南（教程）。**<br>
+- 🛠 `This project aims to provide a beginner's guide (tutorial) for novice developers on writing CounterStrikeSharp plugins.`
+
+**✔ 如果您还未掌握C#基础请先，[学习C#基础](https://www.runoob.com/csharp/csharp-tutorial.html)。**<br>
+- ✔ `If you haven't mastered the basics of C# yet, please `[learn C#](https://www.runoob.com/csharp/csharp-tutorial.html)` first.`
+
 ```
 🤍 本项目目前暂无其他语言的翻译版本，在此热烈欢迎各位同好志士将其翻译成其他语言后提交 Pull Request。
 🧡 В настоящее время у этого проекта нет перевода на другие языки. Сердечно приветствуем единомышленников и добрых людей переводить его на другие языки и делать запрос на слияние (pull request).
