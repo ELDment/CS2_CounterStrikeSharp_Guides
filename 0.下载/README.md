@@ -6,6 +6,6 @@
 ![Snipaste-0919224647](https://github.com/user-attachments/assets/cff84ce3-843d-40db-a06b-d9b2d308874e)
 - **💫 CounterStrikeSharp插件平台**
   - **❌ 不使用**NuGet包管理器
-    - **下载最新 [CounterStrikeSharp发行](https://github.com/roflmuffin/CounterStrikeSharp/releases)**
+    - **下载最新 [CounterStrikeSharp发行](https://github.com/roflmuffin/CounterStrikeSharp/releases)。**
   - **✔ 使用**NuGet包管理器
-    - **无需下载 🎉**
+    - **无需下载。 🎉**
