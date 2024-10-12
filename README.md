@@ -1,5 +1,7 @@
 # [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)插件编写入门教程 💌
 **CounterStrikeSharp是Counter-Strike 2的服务器端插件框架。这个项目基于Metamod Source实现了一个.NET 8脚本层，允许开发人员创建以现代语言（C#）与游戏服务器交互的插件，以促进可维护和可测试代码的创建。**
+___
+**本项目将讲述：如何编写CS2服务器插件。**
 - **🐱‍👤 CounterStrikeSharp [ [Github](https://github.com/roflmuffin/CounterStrikeSharp) ]**
 - **🎫 CounterStrikeSharp [ [Docs](https://docs.cssharp.dev/docs/guides/getting-started.html) ]**
 - **🎟 CounterStrikeSharp [ [Discord](https://discord.gg/eAZU3guKWU) ]**
